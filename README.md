@@ -1,4 +1,4 @@
-# MSTI Arena Challenge 04 — 4-LED Scanner: Serial Speed Control & AVR Registers
+# MSTIA Challenge 04 — 4-LED Scanner: Serial Speed Control & AVR Registers
 
 An Arduino Uno project for ASL National Arena. Four LEDs scan from D4 to D7 and return continuously. The scan delay is adjustable through the Serial Monitor.
 
